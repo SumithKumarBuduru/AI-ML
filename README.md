@@ -1,2 +1,1 @@
-# AI-ML
-My projects on AI-ML
+This project recognizes the handwritten text images and provides the respective english text
